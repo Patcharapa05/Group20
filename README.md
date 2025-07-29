@@ -24,5 +24,7 @@ g++ for_loop.cpp -o for_loop เป็นการใช้คำสั่งร
 g++ while_loop.cpp -o while_loop เป็นการใช้คำสั่งรวบรวมไฟล์ด้วย g++ แล้วสร้างเป็นโปรแกรมที่สามารถรันได้
 
 No. 22 67050562 PATCHARAPA RUNGREUANG พัชราภา รุ่งเรือง
+
 No. 24 67050572 PHUREE AEKA ภูรี เอกา
+
 No. 25 67050573 PHOKEE AEKA โภคี เอกา
